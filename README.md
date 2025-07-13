@@ -4,7 +4,7 @@
 
 🇺🇦 I am from Ukraine
 
-📄 I am currently working at project to convert MD to standartized DOCX
+📄 I am currently working at project to quantize image to set color palette
 
 🐍 Learning python
 

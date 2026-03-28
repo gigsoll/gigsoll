@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=gigsoll&show_icons=true&theme=github_dark"/>
+  <img align="left" width="490" height="165" src="./profile/stats.svg"/>
   <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/fastapi-%23009384?style=for-the-badge&logo=fastapi&logoColor=white">
